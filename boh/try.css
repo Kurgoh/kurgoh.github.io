@@ -35,14 +35,13 @@
 
 .xbox .trigger {
     float: left;
-    background-position: 0 0;
 }
 
 .xbox .trigga {
     width: 446px;
     height: 121px;
     position: absolute;
-    left: 300px;
+    left: 152px;
 }
 
 .xbox .trigga {
@@ -54,7 +53,6 @@
 
 .xbox .trigga {
     float: right;
-    transform: rotateY(180deg);
 }
 
 .xbox .bumper {
